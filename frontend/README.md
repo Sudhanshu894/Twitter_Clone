@@ -8,11 +8,12 @@ Twitter clone built using React, firebase.
 
 ## Team-members
 
-- [Jayesh Khairnar](https://github.com/jayeshk99/)
 - [Sudhanshu Sharma](https://github.com/Sudhanshu894)
+- [Jayesh Khairnar](https://github.com/jayeshk99/)
 - [Gopi Mudumal](https://github.com/gopimudumal99)
 - [Kumar Gudipalli](https://github.com/KumarGudipalli)
 - [Sunil Kumar Verma](https://github.com/sunilverma11)
+
 ## Features
 
 - Signup/Login
@@ -31,14 +32,14 @@ Twitter clone built using React, firebase.
 **Server:** Node, Express, Firebase
 
 
-## Documentation
-
-[Blog upload soon](https://linktodocumentation)
-
-
 ## Demo
 
-[Twitter-clone Demo link](https://twitter-project-work.netlify.app)
+[Demo video](https://drive.google.com/file/d/1D-ST9ehm0_sv1kAc8zAYFbzYP4dTcOyH/view?usp=drivesdk)
+
+
+## Deployment
+
+[Twitter-clone Deploy link](https://twitter-clone894.netlify.app)
 
 
 ## Run Locally
