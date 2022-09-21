@@ -44,4 +44,34 @@ Twitter clone built using React, firebase.
 
 ## Run Locally
 
+Clone the project
 
+```bash
+
+  git clone https://github.com/jayeshk99/Twitter_Clone.git
+
+```
+
+Go to the project directory
+
+```bash
+
+  cd Twitter_Clone/frontend
+
+```
+
+Install dependencies
+
+```bash
+
+  npm install
+
+```
+
+Start the server
+
+```bash
+
+  npm run start
+
+```
