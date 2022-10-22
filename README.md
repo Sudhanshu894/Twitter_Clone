@@ -40,7 +40,7 @@ Twitter clone built using React, firebase.
 
 ## Deployment
 
-[Twitter-clone Deploy link](https://twitter-clone894.netlify.app/)
+[Twitter-clone Deploy link](https://twitter-project-work.netlify.app)
 
 ## Run Locally
 
